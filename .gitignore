@@ -1,0 +1,10 @@
+#папка tmp
+tmp/
+#файлы, заканчивающиеся суффиксам _old, 
+*_old.*
+#файлы, заканчивающиеся суффиксам _backup,
+*_backup.*
+# Thumbs.db и
+Thumbs.db
+# .DS_Store
+*.DS_Store
